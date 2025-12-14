@@ -1,0 +1,4 @@
+# file: /app/pytest-tutorial/03-advanced-topics/14-property-based-testing/my_library.py
+# hypothesis_version: 6.148.7
+
+['(\\d+)(.)']
